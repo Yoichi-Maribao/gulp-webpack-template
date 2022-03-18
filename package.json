@@ -1,0 +1,30 @@
+{
+  "name": "pixel-perfect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoichi-Maribao/pixel-perfect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoichi-Maribao/pixel-perfect/issues"
+  },
+  "homepage": "https://github.com/Yoichi-Maribao/pixel-perfect#readme",
+  "devDependencies": {
+    "glob-parent": "^6.0.2",
+    "gulp": "^4.0.2",
+    "lodash": "^4.17.21",
+    "minimatch": "^5.0.1",
+    "webpack": "^5.70.0"
+  },
+  "resolutions": {
+    "glob-parent": "^5.1.2"
+  }
+}
